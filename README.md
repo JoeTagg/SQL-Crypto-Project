@@ -11,9 +11,7 @@ In this project, I set about using SQL to analyse historical price data for the 
 
 The datasets for this were taken from Kaggle ([here](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory)), and covered the period 2013-2021. This was very much a 101 ‘primer’ in SQL, incorporating foundational syntax, operators, commands, clauses etc. 
 
-I used the in-browser data tool (https://www.csvfiddle.io), which was fantastically slick. I’ll link to my workspace at the bottom of the article, and the GitHub project folder can be found via the URL top of profile, in case anyone wants to explore.
-
-Onwards!
+I used the in-browser data tool (https://www.csvfiddle.io), which was fantastically slick. The link to the workspace, and other project files, can be found in this repo.
 
 ## Step 1: Dataset Exploration and Basic Queries
 Goal: To get a basic understanding of the data by retrieving key financial metrics like prices and market capitalisation for the selected cryptocurrencies.
